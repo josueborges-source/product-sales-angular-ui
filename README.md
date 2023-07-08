@@ -13,7 +13,7 @@ O **Product Sales Angular UI** é a interface de usuário em Angular para a apli
 ## 🚀 Início Rápido
 
 1. Certifique-se de ter o Node.js instalado em seu sistema.
-2. 📥 Clone o repositório: `git clone https://github.com/seu-nome-de-usuário/product-sales-angular-ui.git`
+2. 📥 Clone o repositório: `git clone https://github.com/josueborges-source/product-sales-angular-ui.git`
 3. 📂 Navegue até o diretório do projeto: `cd product-sales-angular-ui`
 4. 📦 Instale as dependências: `npm install`
 5. ▶️ Inicie o servidor de desenvolvimento: `ng serve`
