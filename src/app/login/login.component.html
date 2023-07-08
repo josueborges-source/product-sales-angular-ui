@@ -1,0 +1,13 @@
+<div>
+    <label for="username">Username:</label>
+    <input type="text" id="username" [(ngModel)]="authRequest.username">
+  </div>
+  <div>
+    <label for="password">Password:</label>
+    <input type="password" id="password" [(ngModel)]="authRequest.password">
+  </div>
+  <div>
+    <button (click)="getAccessToken()">Get Access Token</button>
+  </div>
+
+  
